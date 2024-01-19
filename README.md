@@ -1,21 +1,21 @@
-### ❣️ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴀᴀʀᴏʜɪ ᴡᴏʀʟᴅ❣️
+### ❣️SAMANTHA MUSIC WORLD❣️
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">
-    ──「 ᴀᴀʀᴜ ✘ ᴍᴜsɪᴄ ᴠ2 」──
+    ──「 SAMNTHA ✘ ᴍᴜsɪᴄ ᴠ2 」──
 </h2>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://te.legra.ph/file/8d4d7d5dc2e7cf675d80c.jpg"></a></p>
+<p align="center"><a href="https://t.me/music_love088"><img src="https://th.bing.com/th/id/OIP.8wJuCZNRlERV98EE-yfEZQHaKo?rs=1&pid=ImgDetMain"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<a href="https://github.com/stkeditz/AAROHIxMUSIC/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/AAROHIxMUSIC?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
-<a href="stkeditz/AAROHIxMUSIC/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/AAROHIxMUSIC?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
-<a href="https://github.com/stkeditz/AAROHIxMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/rsp0488/samantamusic/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/SAMANTAxMUSIC?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
+<a href="stkeditz/SAMANTAxMUSIC/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/SAMANTAxMUSIC?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
+<a href="https://github.com/rsp0488/samantamusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-darkred?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
 <a href="https://github.com/stkeditz/AAROHIxMUSIC/commits/stkeditz"> <img src="https://img.shields.io/github/last-commit/stkeditz/AAROHIxMUSIC?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
@@ -23,12 +23,12 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=Aarohi+play+music+on+telegram+voice+chat+feature;Managed+by+DiL%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=SAMANTHA+play+music+on+telegram+voice+chat+feature;Managed+by+RAKSHIT%E2%9D%A4%EF%B8%8F"> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/08e3fa23bfff81e9e04b1.jpg">
+  <img src="https://i.ytimg.com/vi/WVt6TMkCEpo/maxresdefault.jpg">
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -37,7 +37,7 @@
     ─「 ❣️ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ❣️ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/stkeditz/AAROHIxMUSICv2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/rsp0488/AAROHIxMUSICv2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <h3 align="center">
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -102,15 +102,15 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ [ᴅɪʟ❣️] 」─
+    ─「 sᴜᴩᴩᴏʀᴛ [RAKSHIT❣️] 」─
 </h3>
 
 <p align="center">
-<a href="https://t.me/LOVE_FEELINGS_WILL1"><img src="https://img.shields.io/badge/-Support%20Group-darkred.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+lr--KgKHjL0yOGI1"><img src="https://img.shields.io/badge/-Support%20Group-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/LOVE_FEELINGS_WILL"(https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-darkred.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+lr--KgKHjL0yOGI1"(https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -137,7 +137,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <summary><b>ʙɪɢ ᴄʀᴇᴅɪᴛs</b></summary>
 <br>
 
-🥺ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴀᴀʀᴏʜɪ🥺:
+🥺ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ SAMANTA🥺:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
@@ -157,7 +157,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/HONEY_SINGH_121"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Sagar" /> </a>
+<a href="https://t.me/music_love088"> <img src="https://img.shields.io/badge/RAKSHIT-darkred?style=for-the-badge&logo=github" alt="RAKSHIT" /> </a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
