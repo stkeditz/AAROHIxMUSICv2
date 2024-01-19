@@ -1,14 +1,14 @@
-### ❣️ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴀᴀʀᴏʜɪ ᴡᴏʀʟᴅ❣️
+### ❣️SAMANTHA MUSIC WORLD❣️
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">
-    ──「 ᴀᴀʀᴜ ✘ ᴍᴜsɪᴄ ᴠ2 」──
+    ──「 SAMNTHA ✘ ᴍᴜsɪᴄ ᴠ2 」──
 </h2>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://te.legra.ph/file/8d4d7d5dc2e7cf675d80c.jpg"></a></p>
+<p align="center"><a href="https://t.me/music_love088"><img src="https://th.bing.com/th/id/OIP.8wJuCZNRlERV98EE-yfEZQHaKo?rs=1&pid=ImgDetMain"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
