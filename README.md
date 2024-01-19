@@ -14,8 +14,8 @@
 
 <p align="center">
 <a href="https://github.com/rsp0488/samantamusic/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/SAMANTAxMUSIC?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
-<a href="stkeditz/AAROHIxMUSIC/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/AAROHIxMUSIC?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
-<a href="https://github.com/stkeditz/AAROHIxMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
+<a href="stkeditz/SAMANTAxMUSIC/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/SAMANTAxMUSIC?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
+<a href="https://github.com/rsp0488/samantamusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-darkred?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
 <a href="https://github.com/stkeditz/AAROHIxMUSIC/commits/stkeditz"> <img src="https://img.shields.io/github/last-commit/stkeditz/AAROHIxMUSIC?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/08e3fa23bfff81e9e04b1.jpg">
+  <img src="https://i.ytimg.com/vi/WVt6TMkCEpo/maxresdefault.jpg">
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
