@@ -102,15 +102,15 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ [ᴅɪʟ❣️] 」─
+    ─「 sᴜᴩᴩᴏʀᴛ [RAKSHIT❣️] 」─
 </h3>
 
 <p align="center">
-<a href="https://t.me/LOVE_FEELINGS_WILL1"><img src="https://img.shields.io/badge/-Support%20Group-darkred.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+lr--KgKHjL0yOGI1"><img src="https://img.shields.io/badge/-Support%20Group-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/LOVE_FEELINGS_WILL"(https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-darkred.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+lr--KgKHjL0yOGI1"(https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -137,7 +137,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <summary><b>ʙɪɢ ᴄʀᴇᴅɪᴛs</b></summary>
 <br>
 
-🥺ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴀᴀʀᴏʜɪ🥺:
+🥺ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ SAMANTA🥺:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
@@ -157,7 +157,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/HONEY_SINGH_121"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Sagar" /> </a>
+<a href="https://t.me/music_love088"> <img src="https://img.shields.io/badge/RAKSHIT-darkred?style=for-the-badge&logo=github" alt="RAKSHIT" /> </a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
