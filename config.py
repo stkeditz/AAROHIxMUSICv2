@@ -23,9 +23,9 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-OWNER_ID = int(getenv("OWNER_ID", "2107529793"))
+OWNER_ID = int(getenv("OWNER_ID", "7197615199"))
 
-BOT_USERNAME = getenv("BOT_USERNAME" , "Alone_Dil_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "ANIKA090MUSIC_BOT")
 
 COMMAND_HANDLER = getenv("COMMAND_HANDLER", "! / .").split()
 
@@ -35,15 +35,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/stkeditz/AAROHIxMUSICv2",
+    "https://github.com/stkeditz/SANYSxMUSICv2",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/LOVE_FEELINGS_WILL1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/LOVE_FEELINGS_WILL1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KARTIK_SANYA")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/KARTIK_SANYA")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -86,7 +86,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/0c373d33859cd378dcafe.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/9ed1be261f178177d8889.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/f16f757fe9c10f81b67ef.jpg"
