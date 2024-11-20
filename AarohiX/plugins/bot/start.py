@@ -104,8 +104,7 @@ async def start_pm(client, message: Message, _):
                 )
     else:
         out = private_panel(_)
-        await message.reply_sticker("CAACAgUAAx0CcSyO9gACl7dkQoL0p1vXqcYtCuCHmSyh4Hi1UgACEwgAAonAEVYwaJ0Jkk8L0B4E")
-        await message.reply_photo(
+    await message.reply_photo(
             photo=config.START_IMG_URL,
             caption=_["start_2"].format(message.from_user.mention, app.mention),
             reply_markup=InlineKeyboardMarkup(out),
