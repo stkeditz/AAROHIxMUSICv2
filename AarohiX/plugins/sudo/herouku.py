@@ -27,7 +27,6 @@ from AarohiX.utils.decorators.language import language
 from AarohiX.utils.pastebin import DilBin
 
 
-GETLOG_COMMAND : ["get_log", "logs"]
 GETVAR_COMMAND : ["get_var", "getvar"]
 DELVAR_COMMAND : ["del_var", "delvar"]
 SETVAR_COMMAND : ["set_var", "setvar"]
