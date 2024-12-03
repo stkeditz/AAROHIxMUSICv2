@@ -27,7 +27,6 @@ from AarohiX.utils.decorators.language import language
 from AarohiX.utils.pastebin import DilBin
 
 
-GETVAR_COMMAND : ["get_var", "getvar"]
 DELVAR_COMMAND : ["del_var", "delvar"]
 SETVAR_COMMAND : ["set_var", "setvar"]
 USAGE_COMMAND : ["usage"]
@@ -79,7 +78,7 @@ async def log_(client, message, _):
         await message.reply_text(_["heroku_2"])
 
 
-@app.on_message(filters.command(GETVAR_COMMAND) & filters.user(OWNER_ID))
+@app.on_message(filters.command(["get_var", "getvar"]) & filters.user(OWNER_ID))
 @language
 async def varget_(client, message, _):
     usage = _["heroku_3"]
