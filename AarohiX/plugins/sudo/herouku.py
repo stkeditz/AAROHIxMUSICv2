@@ -27,11 +27,6 @@ from AarohiX.utils.decorators.language import language
 from AarohiX.utils.pastebin import DilBin
 
 
-DELVAR_COMMAND : ["del_var", "delvar"]
-SETVAR_COMMAND : ["set_var", "setvar"]
-USAGE_COMMAND : ["usage"]
-VARS_COMMAND : ["vars", "config"]
-
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME")
@@ -106,7 +101,7 @@ async def varget_(client, message, _):
             return await message.reply_text(f"**{check_var}:** `{str(output)}`")
 
 
-@app.on_message(filters.command(DELVAR_COMMAND) & filters.user(OWNER_ID))
+@app.on_message(filters.command(["del_var", "delvar"]) & filters.user(OWNER_ID))
 @language
 async def vardel_(client, message, _):
     usage = _["heroku_6"]
@@ -134,7 +129,7 @@ async def vardel_(client, message, _):
             os.system(f"kill -9 {os.getpid()} && python3 -m AarohiX")
 
 
-@app.on_message(filters.command(SETVAR_COMMAND) & filters.user(OWNER_ID))
+@app.on_message(filters.command(["set_var", "setvar"]) & filters.user(OWNER_ID))
 @language
 async def set_var(client, message, _):
     usage = _["heroku_8"]
@@ -163,7 +158,7 @@ async def set_var(client, message, _):
         os.system(f"kill -9 {os.getpid()} && python3 -m AarohiX")
 
 
-@app.on_message(filters.command(USAGE_COMMAND) & filters.user(OWNER_ID))
+@app.on_message(filters.command(["usage"]) & filters.user(OWNER_ID))
 @language
 async def usage_dynos(client, message, _):
     if await is_heroku():
